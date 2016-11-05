@@ -1,2 +1,2 @@
 # jr_android
-Android app to control johnny robot.
+Android develop app to control johnny robot.
