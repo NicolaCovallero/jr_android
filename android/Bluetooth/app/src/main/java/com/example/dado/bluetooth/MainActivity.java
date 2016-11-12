@@ -1,5 +1,5 @@
 package com.example.dado.bluetooth;
-// comment to test git
+// comment to test gita
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.content.Intent;
